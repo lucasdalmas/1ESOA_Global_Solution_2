@@ -8,30 +8,30 @@ BioSave é uma solução inovadora que utiliza tecnologia de ponta para reduzir 
 O objetivo principal do BioSave é reduzir a mortalidade infantil através de diagnósticos precoces e intervenções preventivas, utilizando a inteligência artificial preditiva para identificar e analisar dados de saúde em tempo real.
 
 ### Tecnologias:
-Front-end: Node.js
-Inteligência Artificial Preditiva: Dados de smartwatches e wearables são utilizados para alimentar a IA preditiva, que gera previsões e medidas preventivas.
+Front-end: Node.js<br>
+Inteligência Artificial Preditiva: Dados de smartwatches e wearables são utilizados para alimentar a IA preditiva, que gera previsões e medidas preventivas.<br>
 
 ### Funcionalidades:
-Monitoramento Remoto: O BioSave utiliza sensores de smartwatches e wearables para coletar dados de saúde dos pacientes em tempo real, como frequência cardíaca, temperatura corporal, nível de oxigênio no sangue e padrões de sono.
-Análise Preditiva: A IA preditiva processa os dados coletados, buscando padrões e tendências que podem indicar riscos de doenças e complicações.
-Alertas e Intervenções: O sistema gera alertas para profissionais de saúde e familiares sobre possíveis problemas de saúde, permitindo intervenções preventivas e tratamento oportuno.
+Monitoramento Remoto: O BioSave utiliza sensores de smartwatches e wearables para coletar dados de saúde dos pacientes em tempo real, como frequência cardíaca, temperatura corporal, nível de oxigênio no sangue e padrões de sono.<br>
+Análise Preditiva: A IA preditiva processa os dados coletados, buscando padrões e tendências que podem indicar riscos de doenças e complicações.<br>
+Alertas e Intervenções: O sistema gera alertas para profissionais de saúde e familiares sobre possíveis problemas de saúde, permitindo intervenções preventivas e tratamento oportuno.<br>
 
 ### Site:
-O site do BioSave apresenta um videopitch que demonstra a solução proposta e suas funcionalidades. Além disso, o site contém informações relevantes sobre:
-Mortalidade Infantil: Dados estatísticos sobre a mortalidade infantil no Brasil.
-Doenças e Infecções: Informações sobre as principais doenças e infecções que afetam os brasileiros, incluindo doenças transmissíveis e não transmissíveis.
-Prevenção: Dicas e orientações sobre como prevenir e tratar doenças não transmissíveis e proteger a saúde dos brasileiros.
-Melhorias Gerais à Saúde: Abordagem sobre outros temas relacionados à ODS3, como o combate ao abuso de substâncias, a importância da infraestrutura para a redução de mortes no trânsito e educação sexual.
-Contexto da ODS3: Informações sobre o Objetivo de Desenvolvimento Sustentável 3 e sua importância para a construção de um futuro mais saudável para todos.
+O site do BioSave apresenta um videopitch que demonstra a solução proposta e suas funcionalidades. Além disso, o site contém informações relevantes sobre:<br>
+Mortalidade Infantil: Dados estatísticos sobre a mortalidade infantil no Brasil.<br>
+Doenças e Infecções: Informações sobre as principais doenças e infecções que afetam os brasileiros, incluindo doenças transmissíveis e não transmissíveis.<br>
+Prevenção: Dicas e orientações sobre como prevenir e tratar doenças não transmissíveis e proteger a saúde dos brasileiros.<br>
+Melhorias Gerais à Saúde: Abordagem sobre outros temas relacionados à ODS3, como o combate ao abuso de substâncias, a importância da infraestrutura para a redução de mortes no trânsito e educação sexual.<br>
+Contexto da ODS3: Informações sobre o Objetivo de Desenvolvimento Sustentável 3 e sua importância para a construção de um futuro mais saudável para todos.<br>
 
 ### Instalação e Uso:
-Para instalar e executar o projeto localmente:
-Instalar o Node.js: Baixe e instale a versão 10.2.1 do Node.js.
-Descompactar o arquivo: Descompacte o arquivo do projeto.
-Navegar para o diretório: Abra o terminal e digite: cd 1ESOA_Global_Solution_2
-Instalar os módulos: Digite: npm install
-Executar o projeto: Digite: npm run dev
-O projeto será iniciado em um servidor local. O site estará disponível para acesso através do navegador.
+Para instalar e executar o projeto localmente:<br>
+Instalar o Node.js: Baixe e instale a versão 10.2.1 do Node.js.<br>
+Descompactar o arquivo: Descompacte o arquivo do projeto.<br>
+Navegar para o diretório: Abra o terminal e digite: cd 1ESOA_Global_Solution_2<br>
+Instalar os módulos: Digite: npm install<br>
+Executar o projeto: Digite: npm run dev<br>
+O projeto será iniciado em um servidor local. O site estará disponível para acesso através do navegador.<br>
 
 ### Contribuições:
 Este projeto foi desenvolvido como um trabalho acadêmico e, portanto, não está aberto a contribuições externas.
